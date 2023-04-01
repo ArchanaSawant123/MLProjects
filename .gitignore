@@ -8,6 +8,7 @@ MLPRO/
 *.so
 
 # Distribution / packaging
+.artifact
 .Python
 build/
 develop-eggs/
